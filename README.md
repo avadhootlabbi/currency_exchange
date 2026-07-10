@@ -97,12 +97,6 @@ http://localhost:8501
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](assets/screenshot.png)
-
----
-
 ## 🌎 Supported Features
 
 - Convert between different currencies
@@ -173,7 +167,7 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/avadhootlabbi
 
 ---
 

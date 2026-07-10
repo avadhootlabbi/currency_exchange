@@ -1,14 +1,6 @@
 # 💱 Currency Converter
 
 A modern and responsive **Currency Converter** web application built with **Python** and **Streamlit**. It provides real-time currency conversion using live exchange rates with a clean and user-friendly interface.
-
-![Currency Converter Screenshot](assets/screenshot.png)
-
-> Replace the image path with your actual screenshot location. For example:
-> `assets/screenshot.png`
-
----
-
 ## ✨ Features
 
 - 🌍 Real-time currency exchange rates
@@ -27,76 +19,7 @@ A modern and responsive **Currency Converter** web application built with **Pyth
 - **Requests**
 - **Exchange Rate API**
 - **Pandas** (if used)
-
----
-
-## 📂 Project Structure
-
-```text
-Currency-Converter/
-│
-├── dashboard.py          # Main Streamlit application
-├── requirements.txt      # Project dependencies
-├── README.md
-├── assets/
-│   └── screenshot.png
-└── ...
-```
-
----
-
-## 🚀 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd currency-converter
-```
-
-### 3. Create a virtual environment (Optional)
-
-**Windows**
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 4. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run dashboard.py
-```
-
-The application will open automatically at:
-
-```
-http://localhost:8501
-```
-
----
-
+ 
 ## 🌎 Supported Features
 
 - Convert between different currencies
